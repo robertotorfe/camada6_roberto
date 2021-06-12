@@ -1,0 +1,5 @@
+A - Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente. Su propósito es llevar registro de los cambios en archivos de computadora incluyendo coordinar el trabajo que varias personas realizan sobre archivos compartidos en un repositorio de código.
+
+B - GitHub actualmente le pertenece a Microsoft, lo compró el 4 de junio de 2018 por la cantidad de 7500 millones de dólares. Al inicio el cambio de propietario generó preocupaciones y la salida de algunos proyectos de este repositorio, sin embargo no fueron representativos. GitHub continúa siendo la plataforma más importante de colaboración para proyectos Open Source.
+
+C - Existen muchas formas de usar Git. Por un lado, tenemos las herramientas originales de línea de comandos y por otro lado tenemos una gran variedad de interfaces de usuario con distintas capacidades. 
