@@ -1,0 +1,12 @@
+a)Git  fue creado por Linus Torvalds en 2005 a partir de que la relación entre la comunidad que desarrollaba el kernel de Linux y la compañía que desarrollaba BitKeeper se vino abajo y la herramienta dejó de ser ofrecida de manera gratuita. 
+Esto impulsó a la comunidad de desarrollo de Linux (y en particular a Linus Torvalds, el creador de Linux) a desarrollar su propia herramienta basada en algunas de las lecciones que aprendieron mientras usaban BitKeeper. Algunos de los objetivos del nuevo sistema fueron los siguientes:
+•	Velocidad
+•	Diseño sencillo
+•	Gran soporte para desarrollo no lineal (miles de ramas paralelas)
+•	Completamente distribuido
+•	Capaz de manejar grandes proyectos (como el kernel de Linux) eficientemente (velocidad y tamaño de los datos)
+
+b)El 4 de junio de 2018 Microsoft compró GitHub por la cantidad de 7500 millones de dólares​​
+Porque Microsoft asegura que GitHub mantendrá su distintivo enfoque de anteponer a los desarrolladores y seguirá operando de forma independiente para ofrecer una plataforma abierta a todos los desarrolladores e industrias.
+
+c)Existen muchas formas de usar Git. Por un lado tenemos las herramientas originales de línea de comandos, y por otro lado tenemos una gran variedad de interfaces de usuario con distintas capacidades.
