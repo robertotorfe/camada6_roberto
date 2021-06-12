@@ -7,7 +7,7 @@ Comandos GIT
 - git commit: Es para pasar los archivos del staging area al repositorio
 - git commit --amend -m "<comentario>": Permite reescribir el comentario del ultimo commit
 - git reset: Es para desañadir un archivo que tengamos en el staging area, vuelve al working directory
-- git branch: Muestra las versiones que hay del proyecto
+- git branch: Muestra las versiones y/o ramas que hay del proyecto
 - git branch <nombre>: Crea una nueva version del proyecto (serian como carpetas con diferentes versiones por ejemplo)
 - git branch -d <nombre>: Elimina la rama
 - git branch -D <nombre>: Fuerza la eliminacion de la rama, por mas que hayan cambios sin fusionarse
