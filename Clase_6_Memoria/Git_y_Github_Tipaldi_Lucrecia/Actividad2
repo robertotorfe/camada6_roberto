@@ -1,0 +1,25 @@
+Crear nuevo repositorio local: 
+$ git init
+Ingresar nombre de usuario y mail del repositor para identificarlo:
+$ git config user.name “nombredelusuario”
+$ git config user.email “emailusuario@email.com”
+Bajar por primera vez un repositorio remoto: 
+$ git clone https://github.com/...
+Bajar cambios realizados en un repositorio remoto:
+$ git pull origin main
+Crear una rama en un repositorio local:
+$ git branch (nombre de la nueva rama)
+Cambiar de rama dentro de un repositorio local (rama principal o rama secundaria)
+$ git checkout (nombre de la rama)
+Bajar cambios realizados en una rama en repositorio remoto:
+$ git pull origin (nombre de la rama)
+Agregar cambios dentro del repositorio local:
+$ git add (nombre del archivo modificado) 
+$ git add . 
+Guardar cambios en el repositorio local:
+$ git commit -m “mensaje para identificar commit”
+Ver el estado de los elementos dentro del repositorio local:
+$ git status
+Ver información de los commits realizados y dónde estoy:
+$ git log
+Subir cambios realizados en el reposito
