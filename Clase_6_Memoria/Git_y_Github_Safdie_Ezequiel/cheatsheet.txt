@@ -5,6 +5,7 @@ Comandos GIT
 - git status: Es para ver en que estado estan los archivos
 - git diff <file>: Es para ver las diferencias entre el archivo ya cargado y el nuevo
 - git commit: Es para pasar los archivos del staging area al repositorio
+- git commit --amend -m "<comentario>": Permite reescribir el comentario del ultimo commit
 - git reset: Es para desañadir un archivo que tengamos en el staging area, vuelve al working directory
 - git branch: Muestra las versiones que hay del proyecto
 - git branch <nombre>: Crea una nueva version del proyecto (serian como carpetas con diferentes versiones por ejemplo)
