@@ -1,0 +1,6 @@
+Quién y cuando?
+Es un sistema de control de versiones creado por Linus Torvalds en 2005 para ser utilizado en el desarrollo del kernel de Linux.
+De quién es? 
+El 4 de junio de 2018 Microsoft compró GitHub por la cantidad de 7500 millones de dólares, al inicio el cambio de propietario generó preocupaciones y la salida de algunos proyectos de este repositorio, sin embargo no fueron representativos.
+Como?
+Hay varias maneras, por el momento sólo fuimos aprendiendo mediante la terminal o Visual Studio Code.
