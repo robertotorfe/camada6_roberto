@@ -1,0 +1,3 @@
+a) Fue creado por Linus Torvalds en 2005 para ser utilizado en el desarrollo del kernel de Linux
+b) Github fue creado por Tom Preston-Werner, Scott Chacon, Chirs Wanstrath y P.J. Hyett. Sin embargo, en 2018 Microsft compro a Github, por lo que ahora le pertenece a esa compañia. Esto es un acerca de microsoft con la comunidad del codigo abierto, ademas de generar un renombre de la empresa
+c) Se puede trabajar con github, directamente desde github, es decir, con la interfaz grafica, moviendo los archivos como si fuese un explorador de archivos de la PC
