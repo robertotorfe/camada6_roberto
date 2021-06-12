@@ -1,3 +1,0 @@
-a.  Linus Torvalds en 2005 para ser utilizado en el desarrollo del kernel de Linux
-b. fue comprado por microsoft, buscando mantener el enfoque enn los desarrolladores
-c. tambien es posible usarlo desde web, version desktop, visual studio code
