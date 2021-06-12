@@ -1,0 +1,23 @@
+1- Quién inventó el sistema de versión Git y por qué?
+
+Git es un sistema de control de versiones creado por Linus Torvalds en 2005 para ser utilizado en el desarrollo del kernel de Linux.
+
+Algunos de los objetivos del nuevo sistema fueron los siguientes:
+Velocidad
+Diseño sencillo
+Gran soporte para desarrollo no lineal (miles de ramas paralelas)
+Completamente distribuido
+Capaz de manejar grandes proyectos (como el kernel de Linux) eficientemente (velocidad y tamaño de los datos)
+
+2- A quién pertenece actualmente Github y por qué?
+
+La compró Microsoft.
+
+Esta plataforma se ha popularizado por las múltiples opciones y posibilidades colaborativas para proyectos tan dispares como escribir un libro o la creación de drones con la filosofía del Open Source.
+
+Quizás la clave del éxito que la llevo a la mira de Miccrosoft sea la universalidad de sus dos pilares fundamentales, que son permitir crear versiones diferentes de un mismo proyecto para que cada uno lo adapte a sus necesidades y que estas versiones puedan integrarse después al proyecto principal. Ellos hacen que GitHub sea la plataforma preferida para el trabajo colaborativo sin importar cuál sea el proyecto. Además, puedes recibir la ayuda a quienes les interese lo que estás haciendo, dándote un siempre valioso feedback o colaborando contigo.
+Microsoft asegura que GitHub mantendrá su distintivo enfoque de anteponer a los desarrolladores y seguirá operando de forma independiente para ofrecer una plataforma abierta a todos los desarrolladores e industrias. 
+
+3- Hay otra forma que no sea la terminal para trabajar con Github?
+
+Desde la interfaz gráfica.
