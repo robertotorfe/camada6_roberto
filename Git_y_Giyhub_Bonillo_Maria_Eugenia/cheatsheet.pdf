@@ -1,0 +1,20 @@
+Recordatorio de los comandos más utilizados:
+
+Git init : crea el repositorio
+Git config user.name “nombre usuario”: agrega identidad al repositorio
+Git config user.email “email usuario”:agrega mail al repositorio
+Git add . : agrega todos os archivos
+Git status : seguimiento del estado de los archivos
+Git commit –m “mensaje”  : comitea los cambios hechos
+Git remote add origin URL: conectar con repositorio remoto. 
+Git push origin master (main , o rama que se quiera subir)
+Git clone “URL del proyecto” :descargar un repositorio de la nube
+Git pull origin master <rama> : actualiza repositorio local
+Git branch  : enumera todas las ramas del mi repositorio
+Git branch <nombre nueva rama>
+Git branch –d <rama> : elimina la rama
+Git branch –D <rama> :fuerza eliminación de rama
+Git checkout nombre_rama : moverse de rama
+git merge nuevaBranch_nombre (resuelve la unión (merge) entre las branches) -
+Para realizar la unión (merge), debe estar en la branch que debe recibir
+
