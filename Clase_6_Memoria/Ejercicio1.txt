@@ -1,8 +1,0 @@
-Respuestas
-
-a. El sistema de control de version GIT fue creado por Linus Torvalds para ser utilizado en el desarrollo del kernel de Linux, con el proposito de llevar registro de los cambios en archivos de computadora incluyendo el trabajo que varias personas realizan sobre archivos compartidos en un repositorio de código.
-
-b. Actualmente el dueño de Git es Microsoft quien adquirió GitHub para reforzar su compromiso con la libertad, apertura e innovación, anteponiendo a los desarrollares.
-
-c. Se puede usar desde Visual Studio Code, gitkraken, y otros clientes GUI que se pueden consultar en la pagina de git.
-
