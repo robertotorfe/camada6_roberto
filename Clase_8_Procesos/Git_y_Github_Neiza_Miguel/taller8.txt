@@ -1,0 +1,20 @@
+	1G	1024	
+			
+capacidad GB	CAPACIDAD PSP		
+6	capacidad	6144	MB
+	Juego	peso	
+1.2	God Of War: Chains Of Olympus	1228.8	
+	Driver	491.4	1720.2
+	Need For Speed Carbon	121	1841.2
+	Burnout Dominator	682	2523.2
+	MotorStorm Artic Edge	752	3275.2
+1.5	Midnight Club 3: DUB Edition	1536	4811.2
+	Crash Tag Team Racing	834	5645.2
+	Plants vs. Zombies	2	5647.2
+	Metal Slug Anthology	663	6310.2
+	Resident Evil 3: Nemesis	363	6673.2
+1.2	Grand Theft Auto: Vice City Stories	1228.8	7902
+1.21	FIFA 12	1239.04	9141.04
+	PES 2013	975	10116.04
+	Coded Arms	49.8	10165.84
+	Street Fighter 3 Alpha Max	78.2	10244.04
