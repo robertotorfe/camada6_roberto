@@ -1,0 +1,16 @@
+Enunciado: 
+Nuestro grupo de amigos adquirió una  PSP con un disco de 6GB y queremos instalarle la mayor cantidad de juegos posibles de una lista de 15 juegos que armamos entre todos.
+
+
+Con la capacidad de 6Gb (6144 mb) estos son los juegos que deberiamos instalar para instalar la mayor cantidad:
+
+God Of War: Chains Of Olympus
+Driver
+Need For Speed Carbon
+Burnout Dominator
+MotorStorm Artic Edge
+Midnight Club 3: DUB Edition
+Crash Tag Team Racing
+Plants vs. Zombies
+
+todos esos juegos ocuparán un espacio total de 5647 MB
