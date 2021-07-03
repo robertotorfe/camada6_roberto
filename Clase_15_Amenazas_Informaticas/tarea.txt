@@ -1,0 +1,4 @@
+- Se clono repositorio en la VM y se hace el push desde esta
+- apt-get es un gestor de paquetes 
+- El comando Su sirve para ingresar como superusuario 
+- Si, dado que lo hemos trabajado antes lo unico que es en linux ahora 
