@@ -1,0 +1,6 @@
+clonamos en la maquina virtual el repositorio de github donde subimos todas nuestras tareas dentro de nuestra rama.
+
+apt-get: se utiliza cuando necesitas instalar un programa
+
+su: para cambiar de usuario en la terminal.
+
