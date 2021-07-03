@@ -1,0 +1,9 @@
+Con toda la mesa de trabajo debatan sobre las siguientes preguntas y contesten en conjunto:
+1. Describan con sus palabras lo que acaban de hacer: 
+R/: Instalamos git dentro de la maquina virtual, luego verificamos la version de git que instalamos, luego clonamos el repositorio de la camada 6, ingresamos a la clase 15 y creamos este archivo que estamos escribiendo en este momento.
+2. "apt-get" sirve para:
+R/: Sirve para agarrar una dependencia de internet para luego agregarlo a la maquina virtual
+3. para que sirve "su":
+R/: Para hacer el cambio de usuario
+4. Les resulto familiar esta forma de conectarse a un equipo?:
+R/: Si, es similar el metodo de uso entre la terminal de la maquina host y la maquina virtual.
