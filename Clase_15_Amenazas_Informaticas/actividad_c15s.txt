@@ -9,4 +9,4 @@
 
 3. Es el comando que nos permite cambiar de usuarios en algunas distribuciones de Linux, significa switch user, en espanol "Cambiar de usuario"
 
-4. En lo personal, en algun momento tuve que conectarme de esta forma para hacer pruebas por medio de virtualBox
+4. En lo personal, en algun momento tuve que conectarme de esta forma para hacer pruebas por medio de virtualBox para instalar programas de diferentes sistemas operativos, y he trabajado con la terminal de Mac por lo tanto me resulta familiar tanto trabajar en maquinas virtuales como trabajar con terminales.
