@@ -1,0 +1,13 @@
+1-Mediante el uso del comando apt-get instalamos el controlador de versiones
+git en la maquina para luego clonar el repo de la mochila de clase en donde,
+una vez nos pasamos a nuestra rama, creamos el archivo donde realizaremos la 
+actividad.
+
+2-apt-get es la herramienta que utiliza Debian (entre otros) para gestionar
+los paquetes instalables disponibles en los repositorios.
+
+3-El comando su es usado para cambiar el usuario actual a otro usuario (switch user)
+
+4-Si. Personalmente, tengo Debian como SO de mi máquina, por lo que estoy familiarizado
+con él. Por otro lado, también he trabajo con Virtual Box para probar otras distros
+de Linux.
