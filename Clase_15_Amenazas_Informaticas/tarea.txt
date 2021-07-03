@@ -1,0 +1,11 @@
+A partir de lo realizado, descargamos los datos del repositorio remoto a nuestro repositorio local git de la máquina virtual.
+
+El comando apt-get nos permite el manejo de paquetes en Linux. 
+Su mayor tarea es obtener informacion y paquetes de sus 
+fuentes autentificadas para instalar, actualizar y remover los paquetes junto con sus dependencias.
+
+El comando su permite usar el intérprete de comandos de otro usuario sin necesidad de cerrar la sesión actual.
+
+Si bien clonar un repositorio remoto a uno local ya lo habiamos realizado anteriormente, haber instalado git desde terminal es nuevo y los comandos utilizados nos eran desconocidos.
+
+
