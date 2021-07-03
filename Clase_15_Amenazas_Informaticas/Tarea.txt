@@ -1,0 +1,13 @@
+Describan con sus palabras lo que acaban de hacer. 
+Primero probamos conectividad a internet
+Después usamos el comando su para switchear con el root
+Descargamos git con el comando apt git instal
+Clonamos el repositorio Roberto
+Creamos el archivo tarea.txt y lo editamos con nano
+Posteriormente vamos a subir el archivo con git push a nuestra respectiva rama.
+Describir para qué sirve “apt-get”. 
+Sirve para instalar, borrar y actualizar los paquetes en Linux desde la línea de comandos. Es un administrador de paquetes.
+Describir para qué sirve “su”. 
+El su es para switchear entre los usuarios.
+¿Les resultó familiar esta forma de conectarse a un equipo?
+Todo funcionó como funcionaria en la máquina local (no virtual), por lo menos en cuanto a lo de git. 
