@@ -1,0 +1,24 @@
+Descripción:
+
+1. Verificar si la vm tiene internet a través 
+del comando ping
+
+2. Su root: Cambiamos a super usuario para obtener los permisos para poder
+ejecutar la instalación
+
+3. Instalamos git y verificamos que se haya instalado correctamente.
+
+4. Clonamos el repositorio remoto de la camada y creamos un 
+archivo de texto con el comando touch  dentro del directorio clase 15.
+
+5. Editamos el archivo de texto utilizando nano. 
+
+Apt-get: Apt-get es un gestor de paquete que sirve para gestionar los paquetes
+instalables disponibles en los repositorios.
+
+Su:Su es utilizado para cambiar el usuario actual sin 
+tener que cerrar sesión
+
+Si nos resultó familiar.
+
+
