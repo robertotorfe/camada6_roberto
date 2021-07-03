@@ -1,0 +1,7 @@
+Que acabamos hacer? Descargamos git y clonamos nuestra mochila, luego cree un archivo para realizar la actividad
+
+Para que sirve apt-get? Sirve para el manejo de paquetes
+
+Para que sirve su? Para cambiar de usuarios
+
+Te resulto familiar esta forma de conectarse a un equipo? Si, ya habiamos trabajado con maquinas virtuales 
