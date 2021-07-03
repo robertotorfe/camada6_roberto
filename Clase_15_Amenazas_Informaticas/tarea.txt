@@ -1,0 +1,6 @@
+A partir de lo realizado, descargamos los datos del repositorio remoto a nuestro repositorio local git de la máquina virtual. 
+El comando apt-get nos permite el manejo de paquetes en linux para su instalación, actualización y eliminación.
+El comando su nos permite logearnos en el sistema operativo de la máquina virtual con el usuario root.
+
+Aún no he podido realizar la instalación de mi máquina virtual, no obstante, hemos debatido con el equipo que la clonación del repositorio es similar en una máquina virtual que en la terminal de nuestra pc, pero la instalación de git fue distinta. 
+ 
