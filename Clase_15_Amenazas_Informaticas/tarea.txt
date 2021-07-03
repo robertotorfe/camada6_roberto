@@ -1,0 +1,26 @@
+Describan con sus palabras lo que acaban de hacer. 
+
+Primero probamos conectividad a internet.
+Después usamos el comando su para switchear con el root. 
+Descargamos (o actualizamos si ya estba instalado) el git con el comando
+apt-get install.
+Despues clonamos el repositorio de Roberto.
+Creamo el archivo con touch de tarea.txt y lo editamos con Nano.
+Posteriormente vamos a subir el archivo desde la consola, con git add,
+commit y push a nuestra respectiva rama.
+
+Describir para qué sirve “apt-get”. 
+
+Sirve para instalar, borrar y actualizar los paquetes, repositorios
+ y el sistema desde la linea de comandos.
+
+Describir para qué sirve “su”. 
+
+El su es para switchear entre los usuarios.
+
+¿Les resultó familiar esta forma de conectarse a un equipo? 
+
+Todo funciono como funcionaria en la maquina local (no virtual), por lo menos
+en cuanto a lo de git clone, crear directorios y archivos.
+
+
