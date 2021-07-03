@@ -1,0 +1,10 @@
+Realizamos la instalación de GIT en nuestra maquina virtual, despues de esto clonamos la carpeta camada6 del repositorio de Roberto de allí nos metimos a nuestra propia rama y creamos el documento .txt
+
+apt-get nos deja instalar nuesvas aplicaciones a nuestra maqiuna virtual a traves de la consola.
+
+su: nos ayuda a entrar a la parte de administrador de nuestra maqina virtual. 
+
+Es muy interesante la forma de conectarse o de tener un nuevo sistema operativo en nuestra propia computadora, pero de igual manera no es muy amigable debido a que no conozco bien en SO.
+
+
+
