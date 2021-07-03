@@ -1,0 +1,8 @@
+Instalamos git desde la consola Debian. Clonamos el repositorio para luego posicionarnos en nuestra rama.
+Nos movimos a la carpeta de la clase 15, para crear un archivo de texto y modificarlo usando Nano.
+
+Apt-get gestiona los paquetes instalables disponibles en los repositorios.
+
+El comando su nos poermite cambiar de un usuario a otro.
+
+Si, nos resultó familiar esta forma de conectarse al equipo.
