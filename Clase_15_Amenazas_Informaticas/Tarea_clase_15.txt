@@ -1,0 +1,4 @@
+1-A partir de lo realizado descargamos los datos del repositorio remoto a nuestro repositorio local git de la maquina virtual.
+2-Por medio del comando apt-get podemos actualizar listas de software, instalar, ejecuta la actualizacion, remover aplicaciones en nuestra maquina virtual.
+3-El comando su usa para obtener permisos de root para operaciones administrativas sin tener que salir y entrar nuevamente al sistema.
+4-Conectarse a la MV no nos resulta familiar, pero algunos comandos que se utilizan son iguales a la terminal de windows. Algunos otros comandos como el su root, apt-get son propios de Linux.
