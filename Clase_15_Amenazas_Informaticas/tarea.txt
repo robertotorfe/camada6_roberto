@@ -1,0 +1,8 @@
+1.Describan con sus palabras lo que acaban de hacer:
+Primero instalamos Git desde la terminal con el comando apt-get install git. Luego, clonamos el repositorio de la camada en nuestra máquina virtual, terminamos de contestar este cuestionario en grupo, lo guardamos en la carpeta correspondiente a la clase, hicimos git add y git commit para  finalmente subirlo a nuestra rama con un git push.
+2.Describir para qué sirve “apt-get”:
+Nos sirve para instalar paquetes desde la terminal de una manera sencilla.
+3.Describir para qué sirve “su”:
+Nos sirve para obtener permisos de root para realizar operaciones administrativas, sin tener que salir y entrar de nuevo al sistema.
+4.¿Les resultó familiar esta forma de conectarse a un equipo? 
+Si, porque ya habíamos realizado actividades similares desde Git Bash.
