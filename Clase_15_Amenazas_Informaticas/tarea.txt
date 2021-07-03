@@ -1,0 +1,8 @@
+1) Describan con sus palabras lo que acaban de hacer
+Instalamos GIT a través de la consola, y posteriormente ejecutamos comandos para clonar el repositorio, crear el archivo de texto requerido, para posteriormente subirlo a la carpeta correspondiente a la clase de hoy, en nuestra branch.
+2) apt-get
+Es un programa de gestión de paquetes, este simplifica en gran medida la instalación y eliminación de programas en los sistemas GNU/Linux
+3) comando su
+Sirve para cambiar de un usuario a otro, siendo requerido para el acceos la contraseña del usuario al que se quiere cambiar. También permite el cambio a la cuenta root.
+4) Familiar?
+Sí. Es la misma mecánica con la que nos conectamos a GIT en las prácticas realizadas con Bash.
