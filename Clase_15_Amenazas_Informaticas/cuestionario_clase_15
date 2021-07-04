@@ -1,0 +1,10 @@
+1 Verificamos si la VM tiene conexión a Internet haciendo ping a la página de DH.
+2. Cambiamos a modo super usuario para obtener los permisos y poder ejecutar la instalación
+3 Instalamos Git
+4. Verificamos que git se instaló correctamente a través de git --version
+5. Clonamos el repositorio remoto de la camada y creamos un archivo de txt con el comando touch dentro del directorio clase_15
+6. editamos el archivo txt utilizando nano
+apt-get sirve para gestionar los paquetes instalables disponibles en los repositorios
+su es para cambiar de usuario actual sin tener que cerrar sesión
+Nos resultó familiar
+
