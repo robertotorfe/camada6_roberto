@@ -1,0 +1,10 @@
+se realizó la instalación de git, se clonó el repositorio remoto, y ahora
+se está editanto un txt a través de GNU nano
+
+por medio de apt-get se pueden descargar prgramas e instalarlos
+en linux.
+
+su sirve para cambiar de usuario en la consola, puede ser a
+root o otro.
+
+si es familiar, me gusta para profundizar en futuros temas.
