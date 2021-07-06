@@ -1,0 +1,14 @@
+1. Entramos a la terminal desde la máquina virtual y clonamos el repositorio
+de la camada, utilizando su URL, a través del comando git clone.
+
+2. apt-get: Es un comando derivado de los sistemas Debian que sirve para
+instalar programas en Linux, borrarlos, actualizar los repositorios y 
+actualizar el sistema desde la línea de comandos.
+
+3. su: Este comando sirve para cambiar el usuario actual a otro. Si usamos el
+comando "su root", estamos indicando que vamos a cambiarnos al usuario root,
+por lo cual, nos solicitará la contrasña del usuario.
+
+4. Si, a través de la máquina virtual tenemos una experiencia simlar a si
+estuviesemos utilizando nuestra propia máquina (host).
+
