@@ -1,0 +1,4 @@
+1. Realice un ping para validar si tenia internet en la maquina virtual, a lo cual obtuve un tiempo de transmision y una ip. Luego de ello con el comando su root me pase a administrador para que me permitiera instalar git. Luego de instalado git, clonee el github del profesor, ingrese a la carpeta y cambie a mi rama personal (mochila). Luego entre a la carpeta clase 15 y cree con el comando touch un archivo txt. 
+2. instala los paquetes que se le indican, consiguiendolos de internet
+3. su permite usar el interprete de comandos de otro usuario sin necesidad de cerrar la sesion. 
+4. me resulto familiar, tal como lo realizamos en git bash 
