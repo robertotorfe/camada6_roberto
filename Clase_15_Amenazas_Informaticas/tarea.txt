@@ -1,0 +1,11 @@
+1. Inicialmente se hizo un Ping que es basicamente una peticion al servidor de destino y este responde.
+
+Despues se ingresó al usuario root para poder instalar git a traves del comando apt-get install. Se comprobó la version de git.
+ Después, a través de git se clonó el repositorio de la camada 6 y se ingreso a la carpeta correspondiente donde se creao este archivo. Todo se realizar por consola.
+
+
+2.el comando apt-get se usa para instalar programas en linux, borrarlos, actualizar los repositorios y actualizar el sistema desde la linea de comandos.
+
+3.el comando su sirve para poder ingresar al usuario root o super usuario y tener sus privilegios.
+
+4. Si, se ejecutaron los mismos comandos usados a en GitBash instalado en windows.   
