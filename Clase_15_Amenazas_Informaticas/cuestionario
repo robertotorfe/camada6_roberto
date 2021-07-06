@@ -1,0 +1,17 @@
+1.con el comando ping verificamos la conexion
+2 ponemos credenciales de superusuario
+3.con el comando apt-get install git instalamos git en nuestra maquina virtual 
+4.verificar la instalacion con git --version 
+5.clonamos el repositorio remoto de la camada 6 con git clone
+6.verificamos las carpetas existentes y nos movemos a clase_15
+7 con touch creamos un archivo de texto y lo editamos con nano 
+ 
+==== apt-get ===
+apt es una biblioteca en internet 
+con get instalamos y es un gestor de paquetes
+
+== su ==
+sirve para cambiar de usuario y poner credenciales de super ususario
+
+== ¿es familiar esta forma de conectarse a un equipo? ==
+si bastante familiar por el uso de consola 
