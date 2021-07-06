@@ -1,0 +1,17 @@
+1. Se realiza el ingreso a la máquina virtual donde por medio del apt-get-
+install instalamos el git de forma posterior, verificamos la versión para
+confirmar que si este instalado y clonamos el repositorio de la clase, nos
+movemos a nuestra rama y creamos un documento txt para la actividad con el
+comando de tocuh.
+
+2. Busca una o varias palabras en la lista de paquetes disponibles.
+ Lista todos los paquetes disponibles para instalar o instalados en el sistema
+ Instala el paquete indicado en el sistema.
+
+3. El comando su sirve para pasar directo al admin de la máquina esto para
+poder ejecutar dentro de la máquina con mayor libertad la administración
+de la misma.
+
+4. Se valida en el momento ya es de reconocimiento tanto la máquina virtual
+como el proceso de ejecución de comandos dentro de la terminal por lo cual
+resulta muy familiar el proceso que estamos realizando.
