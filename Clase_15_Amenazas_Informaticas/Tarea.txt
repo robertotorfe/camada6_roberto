@@ -1,8 +1,0 @@
-- Clonamos un repositorio en la maquina virtual para despues añadir un 
-archivo.txt 
-- Es una herramienta para la gestión de paquetes
-- El comando Su sirve para activar el superusuario
-- Nos resulta similar dado que es clonar un repositorio y hacer uso de este 
-pero en linux/debian 
-
-
