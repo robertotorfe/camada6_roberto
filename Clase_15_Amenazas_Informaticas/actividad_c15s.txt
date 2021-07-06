@@ -1,0 +1,12 @@
+1. 
+ 	- Verificamos la conexion de la maquina por medio del comando "ping" hacia la pagina de DH
+	- Instalamos el programa Git en nuestra maquina por medio del comando apt-get install git
+	- Verificamos la version instalada de nuestro git
+	- Clonamos la mochila de la clase y nos cambiamos a nuestras respectivas ramas y a la carpeta de la actividad
+	- Creamos el archivo en el cual resolvemos entre todos las preguntas del documento
+
+2. Es el comando que permite realizar operaciones sobre los paquetes/programas que necesitemos, este comando se debe combinar con la palabra relacionada a la accion que vayamos a usar, por ejemplo install, upgrade, etc...
+
+3. Es el comando que nos permite cambiar de usuarios en algunas distribuciones de Linux, significa switch user, en espanol "Cambiar de usuario"
+
+4. En lo personal, en algun momento tuve que conectarme de esta forma para hacer pruebas por medio de virtualBox para instalar programas de diferentes sistemas operativos, y he trabajado con la terminal de Mac por lo tanto me resulta familiar tanto trabajar en maquinas virtuales como trabajar con terminales.
