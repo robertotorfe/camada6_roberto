@@ -1,0 +1,15 @@
+-INstalamos GIT desde la consola de Debian
+-Clonamos el repositorio de la clase
+-Nos movimos a la rama individual
+-nos movimos hasta la carpeta Clase_15
+-creamos un archivo de texto
+-lo abrimos para poder editarlo con nano
+
+-apt-get es una interfaz de línea de órdenes para la obtención de
+paquetes y de información sobre ellos de orígenes autenticados y
+para la instalación, actualización y eliminación de paquetes junto
+a sus dependencias.
+
+-Se utiliza comunmente para obtener permisos de root desde ususario no root
+
+-SI.
