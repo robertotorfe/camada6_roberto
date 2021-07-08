@@ -1,0 +1,11 @@
+-Primero instalamos git en nuestra maquina virual, luego clonamos el repositorio de la camada.
+Una vez ubicados en el repositorio, nos cambiamos a nuestra rama para poder abri la carpeta de la clase.
+Dentro de la carpeta creamos este arhivo de texto y lo editamos.
+
+-Apt-get es un comando que funciona para realizar el manejo de paquetes en linux.
+
+-El comando su "usuario sustituto" se utiliza para tener permisos especiales de edicion.
+
+-Si, me resulto familiar esta forma de conectarme con el elquipo.
+
+:)
