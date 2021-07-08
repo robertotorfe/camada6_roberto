@@ -1,0 +1,11 @@
+Qué acabamos de hacer:
+*Descargar git
+*Clonar el repositorio remoto
+*Cambiar de rama
+
+Apt-get:
+Se utiliza para descargar aplicaciones a la maquina virtual
+
+su:
+Permite ingresar a la lista de usuarios root
+
