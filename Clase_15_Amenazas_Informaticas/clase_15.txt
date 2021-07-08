@@ -1,0 +1,13 @@
+1. Que se hizo?
+
+Se inatalo git en la maquina virtual, luego clonamos el repositorio de camada_6,
+hicimos cambio a nuestra rama, creamos un archivo de texto en nuestra rama, lo
+estamos modificando y luego procederemos a hacerle un add ., luego un commit y despues un push.
+
+2. apt-get sirve para gestionar los paquetes instalables disponibles
+
+3.su sirve para entrar en modo superusuario y asi tener permisos para realizar
+variar instrucciones que un usuario comun no lo podria hacer
+
+4.si ya lo habiamos manejado anteriormente.
+
