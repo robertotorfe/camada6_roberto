@@ -1,0 +1,5 @@
+no me funcionó el comando "gnu nano" pero con "nano" sí, por suerte.
+1. Primero se comprobó que la conexión a internet sea correcta, luego se instaló git para clonar el repositorio.
+2. Sirve para gestionar los paquetes, instalarlos, actualizarlos, borrarlos, etc.
+3. El comando sirve para activar el superusuario.
+4. Sí, porque ya lo habíamos realizado anteriormente desde nuestras máquinas.
