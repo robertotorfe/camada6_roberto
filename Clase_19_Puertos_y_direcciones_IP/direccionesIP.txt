@@ -12,5 +12,5 @@ Pública:Clase B
 
 ¿ Qué información puedo obtener de la Máscara de red? 
 Dirección MAC
-14:7d:da:11:26:57
+14:7d:da:11:26:**
 puedo verificar que marca de placa de red tenemos.
