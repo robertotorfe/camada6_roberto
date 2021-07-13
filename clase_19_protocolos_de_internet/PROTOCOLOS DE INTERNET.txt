@@ -1,0 +1,67 @@
+Dirección IP Pública y su Máscara de subred
+
+Ip publica
+
+181.62.52.1
+255.255.0.0
+
+IP Privada y su Máscara de subred
+192.168.0.58
+Máscara de subred  255.255.255.0
+
+
+Dirección MAC
+ethernet 
+ Dirección física: BC-E9-2F-7B-75-4C
+HP Inc.
+
+wifi
+Dirección física: 1C-BF-C0-0A-8C-EB
+
+CHONGQING FUGUI ELECTRONICS CO.,LTD.
+
+
+
+---------
+¿ La IP pública y privada de qué clase son ? 
+
+pública clase B 
+privada clase C
+
+---------------
+
+
+Dirección de IP pública ¿Qué es?
+Una dirección IP pública es aquella que se le asigna a cualquier dispositivo que se conecte de forma directa a Internet, por ejemplo, el router de casa o los servidores donde se alojan las páginas web. La IP pública es visible desde Internet.
+
+La IP pública es una dirección única y nunca se puede repetir. La asignan los proveedores de Internet (ISP) y se la conoce también como dirección IP dinámica, puesto que cambia cada vez que reiniciamos el router o cada cierto período de tiempo. Esto quiere decir que también existe una dirección IP pública fija o estática, pero si se necesita por algún motivo, es necesario contactar con el ISP para solicitar que nos la configuren manualmente.
+
+Dirección de IP privada ¿Qué es?
+La dirección IP privada es una dirección fija que se asigna a cada dispositivo conectado a una red privada o doméstica, es decir, la dirección IP que el router asigna a cada ordenador, smartphones, smart TV, tablet, videoconsola o cualquier otro dispositivo conectado a él. Así, cada dispositivo conectado a un router tiene su propia dirección IP privada, mientras comparten la misma IP pública.
+
+Las IP’s privadas no son accesibles desde Internet y no cambian, a no ser que las asignemos nosotros manualmente.
+
+Rangos de IP privadas
+Dentro de las IP privadas podemos encontrar diferentes rangos, que se asignan en función del tipo de red:
+
+Rango clase A
+El rango de clase A es el que emplean las grandes empresas, puesto que permite crear hasta 126 redes distintas y conectar hasta un máximo de 16.777.214 equipos a la red.
+
+Este rango se encuentra entre estos números: 10.0.0.0 a 10.255.255.255. El primer bloque de la dirección identifica la red y los otros tres bloques identifican a los dispositivos que se conectan a la red.
+
+Rango clase B
+El rango clase B se emplea en redes de tamaño medio, como organizaciones o universidades. Permite crear un mayor número de redes que el rango A, 16.384 redes, pero con muchos menos equipos conectados a ellas, 65.534 dispositivos.
+
+El rango está en 172.16.0.0 a 172.31.255.255; los dos primeros bloques identifican la red y los restantes a los equipos conectados a ella.
+
+Rango clase C
+Finalmente el rango clase C es el más común y usado, puesto que es el que se emplea en las redes domésticas. Permite tener muchas más redes, 2.097.152, pero pudiendo conectar muchos menos equipos a cada una de ellas, 254.
+
+El rango C va desde 192.168.0.0 a 192.168.255.255; aquí son los tres primeros bloques los que identifican la red, mientras que el último identifica a los equipos.
+
+Rango de direcciones IP públicas
+Las direcciones IP públicas también tienen rangos y se corresponden a aquellos que quedan excluidos de los rangos para las IP privadas, yendo desde «1. …» hasta «191. …». De manera que el rango de la IP públicas estará en:
+
+Clase A: 1.0.0.0 a 126.255.255.255
+Clase B: 128.0.0.0 a 191.255.255.255
+Clase C: 192.0.0.0 a 223.255.255.255
