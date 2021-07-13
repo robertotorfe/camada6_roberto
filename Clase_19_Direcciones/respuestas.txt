@@ -4,6 +4,7 @@ Mascara de subred 255.255.255.0
 IP publica  200.127.37.10
 Mascara de subred 255.255.255.0
 
-Ambas son clase C, y la mascara la podemos usar para saber que clase es y que host usa cada dispositivo
+Ambas IP son clase C, y la mascara la podemos usar para saber que clase es y que host usa cada dispositivo
+Mediante la máscara de red, un sistema (ordenador, puerta de enlace, enrutador, etc.) podrá saber si debe enviar un paquete dentro o fuera de la subred en la que está conectado
 
 MAC address:  18-C0-4D-37-B3-20
