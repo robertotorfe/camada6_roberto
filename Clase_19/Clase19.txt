@@ -1,4 +1,5 @@
 IP publico: 152.168.229.205 (claseB)
+mi mascara de subred privada/publico: 255.255.0.0
 
 mi ip privada: 192.168.0.97 (clase C)
 mi mascara de subred privada/publico: 255.255.255.0
