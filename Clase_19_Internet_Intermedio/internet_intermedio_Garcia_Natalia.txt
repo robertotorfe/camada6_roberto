@@ -1,0 +1,13 @@
+IP Publica CLASE C
+200.127.83.122
+Máscara de subred 255.255.255.0
+
+IP Privada CLASE C
+192.168.0.120
+Máscara de subred 255.255.255.0
+
+Ip MAC
+18-C0-4D-92-86-9C
+GIGA-BYTE TECHNOLOGY CO.,LTD.
+
+Con la máscara de subred podemos saber si un host está en la subred local o en una red remota
