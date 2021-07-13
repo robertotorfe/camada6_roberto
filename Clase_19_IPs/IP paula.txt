@@ -1,0 +1,12 @@
+Mi IP publica es:
+186.122.180.52
+y mi Mascara es 255.255.0.0 (Clase B)
+
+Mi IP privada:
+192.168.100.6
+y mi Mascara es 255.255.255.0 (Clase C)
+
+Direccion MAC:
+20-79-18-6D-9F-A2
+
+
