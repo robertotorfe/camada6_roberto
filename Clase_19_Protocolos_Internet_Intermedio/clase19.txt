@@ -1,0 +1,8 @@
+IP pública: 170.51.105.97 Clase B
+Máscara de subred: 255.255.0.0
+
+IP privada: 192.168.1.81 Clase C
+Máscara de subred: 255.255.255.0
+
+Dirección MAC: 2C-F0-5D-35-FC-61
+Marca placa de red: Micro-Star INTL CO., LTD.
