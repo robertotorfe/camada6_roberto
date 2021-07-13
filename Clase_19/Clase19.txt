@@ -1,0 +1,7 @@
+IP publico: 152.168.229.205 (claseB)
+
+mi ip privada: 192.168.0.97 (clase C)
+mi mascara de subred privada/publico: 255.255.255.0
+
+mac: E4-F8-9C-90-3A-1C , mi placa de red es de Intel Corporate
+
