@@ -6,3 +6,6 @@ Máscara de subred: 255.255.255.0
 
 Dirección MAC: 2C-F0-5D-35-FC-61
 Marca placa de red: Micro-Star INTL CO., LTD.
+
+La máscara de red es una combinación de bits que sirve para delimitar el ámbito de una red de ordenadores. ​Su función es indicar a los dispositivos qué parte de la dirección IP es el número de la red, incluyendo la subred, y qué parte es la correspondiente al host.
+Mediante la máscara de red, un sistema (ordenador, puerta de enlace, enrutador, etc.) podrá saber si debe enviar un paquete dentro o fuera de la subred en la que está conectado. Por ejemplo, si el enrutador tiene la dirección IP 192.168.1.1 y máscara de red 255.255.255.0, entiende que todo lo que se envía a una dirección IP con formato 192.168.1.X, se envía hacia la red local, mientras que direcciones con distinto formato de dirección IP serán enviadas hacia afuera (Internet, otra red local mayor, entre otros).
