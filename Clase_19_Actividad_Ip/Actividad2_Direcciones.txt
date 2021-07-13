@@ -1,4 +1,5 @@
 Direccion Publica: 181.130.202.114 Tipo B
+Mascara: 255.255.0.0
 Direccion Privada: 192.168.1.2 Tipo C
 Mascara: 255.255.255.0
 Direccion MAC: 14:7d:da:73:b5:7a
