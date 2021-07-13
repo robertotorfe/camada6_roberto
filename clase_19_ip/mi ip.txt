@@ -1,0 +1,21 @@
+
+1. mis datos ================================================================================
+
+ip publica: 186.84.20.129
+ip privada IPV4: 192.168.0.85
+mascara de red:255.255.255.0
+MAC:90-2B-34-AD-30-CB
+
+
+2. ¿ La IP pública y privada de qué clase son ? =============================================
+
+-la ip privada es clase C por iniciar con 192
+-la ip publica es clase B por iniciar con 186
+
+
+3. ¿ Qué información puedo obtener de la Máscara de red? , ==================================
+vamos a acceder a  https://macvendors.com/ y 
+verificar que marca de placa de red tenemos.
+
+- mi marca de placa es:
+GIGA-BYTE TECHNOLOGY CO.,LTD. segun la direccion mac de mi placa: MAC:90-2B-34-AD-30-CB
