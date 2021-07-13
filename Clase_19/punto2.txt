@@ -1,0 +1,25 @@
+*Dirección IP Pública y su Máscara de subred
+
+IP publica: 152.169.190.11
+Mascara de subred: 255.255.0.0
+
+
+
+*Dirección IP Privada y su Máscara de subred
+
+Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.238(Preferido)
+Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+
+
+*Dirección MAC
+
+Dirección física (MAC):	5C-EA-1D-73-71-55
+
+
+*La direccion IP privada es clase C y la pública es clase B
+
+
+
+*La informacion que obtengo a partir de la MAC es: Hon Hai Precision Ind. Co.,Ltd.
+
+
