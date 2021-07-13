@@ -2,35 +2,40 @@ Leandro Correa:
 Dirección IP privada 192.168.1.61 (clase C)
 Máscara de subred  255.255.255.0 (clase C)
 Dirección IP pública 186.128.166.183 (clase B)
+Máscara de subred pública: 255.255.0.0 (clase B)
 MAC 48-2A-E3-57-19-CD (Wistron InfoComm(Kunshan)Co.,Ltd.)
 
 
 Juan Ignacio Delena:
 IP Pública: 190.151.168.59 (Clase B)
+Máscara de subred pública: 255.255.0.0 (clase B)
 IP Privada: 192.168.0.12 (Clase C)
 Máscara subred: 255.255.255.0 (Clase C)
 MAC: B8-76-3F-F0-51-11 (Hon Hai Precision Ind. Co.,Ltd.)
 
 
 
-Delfina Feraud: 
+Delfina Feraud:
 IP Pública: 190.246.253.130 (Clase B)
+Máscara de subred pública: 255.255.0.0 (clase B)
 IP Privada: 192.168.56.1 (Clase C)
-Máscada subred: 255.255.255.0
+Máscada subred: 255.255.255.0 Clase C)
 MAC: 20-47-47-B4-33-C2 (Dell Inc.)
 
 
 
 Karina Dominguez:
 IP Pública: 190.191.2.172 (clase B)
+Máscara de subred pública: 255.255.0.0 (clase B)
 IP Privada: 192.168.0.204 (clase C)
-Máscada subred: 255.255.255.0
+Máscada subred: 255.255.255.0 (clase C)
 MAC 9C-B6-D0-63-30-A7 (Rivet Networks)
 
 
 
 Maria Agustina Negri
 IP Pública: 186.0.141.170 (Clase B)
+Máscara de subred pública: 255.255.0.0 (clase B)
 IP Privada: 192.168.0.102 (Clase C)
 Máscada subred: 255.255.255.0 (Clase C)
 MAC d4:61:9d:19:bf:6e (Apple. Inc)
@@ -38,6 +43,8 @@ MAC d4:61:9d:19:bf:6e (Apple. Inc)
 
 Juan Manuel Chilito
 IP Pública: 191.92.213.27 (clase B)
+Máscara de subred pública: 255.255.0.0 (clase B)
 IP Privada:  192.168.1.1 (clase C)
-Máscara de subred: 255.255.255.0
+Máscara de subred: 255.255.255.0 (clase C)
 MAC: B0-FC-36-B6-0B-4F (CyberTAN Technology Inc.)
+
