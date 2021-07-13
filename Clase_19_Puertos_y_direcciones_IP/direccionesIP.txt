@@ -1,0 +1,16 @@
+Dirección IP Pública y su Máscara de subred
+190.248.175.25
+
+
+Dirección IP Privada y su Máscara de subred
+192.168.1.1.
+Máscara de subred:255.255.255.0
+
+¿ La IP pública y privada de qué clase son ? 
+Privada:Clase C
+Pública:Clase B
+
+¿ Qué información puedo obtener de la Máscara de red? 
+Dirección MAC
+14:7d:da:11:26:57
+puedo verificar que marca de placa de red tenemos.
