@@ -1,0 +1,16 @@
+Direcciones
+------------
+
+-IP publica: 181.165.168.6
+mascara de subred: 255.255.255.0
+Clase: IPV4 - clase C
+
+-IP privada: 192.168.0.229
+mascara de subred: 255.255.255.0
+Clase: IPV4 - clase C
+
+-direccion MAC:00-C2-C6-45-C3-0B
+Marca de placa de red: Intel Corporate
+
+
+La máscara de red es una combinación de bits que sirve para delimitar el ámbito de una red de ordenadores. ? Su función es indicar a los dispositivos qué parte de la dirección IP es el número de la red, incluyendo la subred, y qué parte es la correspondiente al host.
