@@ -1,0 +1,13 @@
+IP privada: 192.168.1.11
+Mascara de subred: 255.255.255.0
+Clase C
+
+IP publica: 200.123.140.150
+Mascara de subred: 255.255.255.0
+Clase C
+
+MAC: 00:e0:4c:69:a1:85
+La marca de la placa de red es Realtik semiconductor corp.
+
+
+
