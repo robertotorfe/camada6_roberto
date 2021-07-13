@@ -6,7 +6,7 @@ Direccion IP privada: 192.168.0.7
 Máscara de subred privada: 255.255.255.0
 Tipo de IP: Clase C
 
-Dirección MAC --> 80-30-49-02-85-06
+Dirección MAC: 80-30-49-02-85-06
 Fabricante: Liteon Technology Corporation
 
 
