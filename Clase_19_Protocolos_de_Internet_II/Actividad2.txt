@@ -1,0 +1,10 @@
+Publica - IP: 190.137.237.6
+Privada - Dirección IPv4. . . . . . . . . . . . . . : 192.168.1.16
+Privada - Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+MAC:  Dirección física. . . . . . . . . . . . . : 28-56-5A-3E-36-33
+La IP publica y privada son de clase v4
+La informacion que podemos obtener de la mascara de red permite saber al sistema si debe enviar un paquete dentro o 
+fuera de la subred en la que está conectado. Su función es indicar a los dispositivos qué parte de la dirección IP es 
+el número de la red, incluyendo la subred, y qué parte es la correspondiente al host.
+Marca de placa de red: Hon Hai Precision Ind. Co.,Ltd.
+
