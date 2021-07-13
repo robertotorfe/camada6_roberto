@@ -2,8 +2,8 @@ Direcciones
 ------------
 
 -IP publica: 181.165.168.6
-mascara de subred: 255.255.255.0
-Clase: IPV4 - clase C
+mascara de subred: 255.255.0.0
+Clase: IPV4 - clase B
 
 -IP privada: 192.168.0.229
 mascara de subred: 255.255.255.0
