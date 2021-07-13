@@ -1,0 +1,111 @@
+Microsoft Windows [Versión 10.0.19041.1083]
+(c) Microsoft Corporation. Todos los derechos reservados.
+
+C:\Users\ASUS>ipconfig/all
+
+Configuración IP de Windows
+
+   Nombre de host. . . . . . . . . : LAPTOP-AI60IU2V
+   Sufijo DNS principal  . . . . . :
+   Tipo de nodo. . . . . . . . . . : híbrido
+   Enrutamiento IP habilitado. . . : no
+   Proxy WINS habilitado . . . . . : no
+
+Adaptador de Ethernet Ethernet:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+   Descripción . . . . . . . . . . . . . . . : Realtek PCIe FE Family Controller
+   Dirección física. . . . . . . . . . . . . : B0-6E-BF-1A-3A-6F
+   DHCP habilitado . . . . . . . . . . . . . : sí
+   Configuración automática habilitada . . . : sí
+
+Adaptador de Ethernet VirtualBox Host-Only Network:
+
+   Sufijo DNS específico para la conexión. . :
+   Descripción . . . . . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter
+   Dirección física. . . . . . . . . . . . . : 0A-00-27-00-00-04
+   DHCP habilitado . . . . . . . . . . . . . : no
+   Configuración automática habilitada . . . : sí
+   Vínculo: dirección IPv6 local. . . : fe80::b93d:d0d7:c5d9:92eb%4(Preferido)
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1(Preferido)
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+   IAID DHCPv6 . . . . . . . . . . . . . . . : 1007288359
+   DUID de cliente DHCPv6. . . . . . . . . . : 00-01-00-01-23-18-63-4E-B0-6E-BF-1A-3A-6F
+   Servidores DNS. . . . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS sobre TCP/IP. . . . . . . . . . . : habilitado
+
+Adaptador de LAN inalámbrica Conexión de área local* 9:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+   Descripción . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Dirección física. . . . . . . . . . . . . : 42-9F-38-54-CE-93
+   DHCP habilitado . . . . . . . . . . . . . : sí
+   Configuración automática habilitada . . . : sí
+
+Adaptador de LAN inalámbrica Conexión de área local* 10:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+   Descripción . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Dirección física. . . . . . . . . . . . . : 40-9F-38-54-CE-93
+   DHCP habilitado . . . . . . . . . . . . . : sí
+   Configuración automática habilitada . . . : sí
+
+Adaptador de Ethernet Ethernet 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+   Descripción . . . . . . . . . . . . . . . : Kaspersky Security Data Escort Adapter
+   Dirección física. . . . . . . . . . . . . : 00-FF-29-20-8B-9E
+   DHCP habilitado . . . . . . . . . . . . . : sí
+   Configuración automática habilitada . . . : sí
+
+Adaptador de Ethernet Ethernet 3:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+   Descripción . . . . . . . . . . . . . . . : Kaspersky Security Data Escort Adapter #2
+   Dirección física. . . . . . . . . . . . . : 00-FF-ED-3D-95-31
+   DHCP habilitado . . . . . . . . . . . . . : sí
+   Configuración automática habilitada . . . : sí
+
+Adaptador de LAN inalámbrica Wi-Fi:
+
+   Sufijo DNS específico para la conexión. . :
+   Descripción . . . . . . . . . . . . . . . : Realtek 8821AE Wireless LAN 802.11ac PCI-E NIC
+   Dirección física. . . . . . . . . . . . . : 40-9F-38-54-CE-93
+   DHCP habilitado . . . . . . . . . . . . . : sí
+   Configuración automática habilitada . . . : sí
+   Vínculo: dirección IPv6 local. . . : fe80::bc29:3348:78b6:a6fc%14(Preferido)
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.9(Preferido)
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Concesión obtenida. . . . . . . . . . . . : domingo, 11 de julio de 2021 5:50:51 p. m.
+   La concesión expira . . . . . . . . . . . : martes, 13 de julio de 2021 11:41:54 a. m.
+   Puerta de enlace predeterminada . . . . . : 192.168.0.1
+   Servidor DHCP . . . . . . . . . . . . . . : 192.168.0.1
+   IAID DHCPv6 . . . . . . . . . . . . . . . : 440442680
+   DUID de cliente DHCPv6. . . . . . . . . . : 00-01-00-01-23-18-63-4E-B0-6E-BF-1A-3A-6F
+   Servidores DNS. . . . . . . . . . . . . . : 192.168.0.1
+   NetBIOS sobre TCP/IP. . . . . . . . . . . : habilitado
+
+Adaptador de Ethernet Conexión de red Bluetooth:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+   Descripción . . . . . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Dirección física. . . . . . . . . . . . . : 40-9F-38-54-CE-92
+   DHCP habilitado . . . . . . . . . . . . . : sí
+   Configuración automática habilitada . . . : sí
+
+C:\Users\ASUS>
+
+Fabricante máscara de res
+AzureWave Technology Inc.
+
+las mascara de subred sirve para idetificar que que clase de redes somos	
+
