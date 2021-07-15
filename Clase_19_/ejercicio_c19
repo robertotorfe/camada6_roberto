@@ -1,0 +1,16 @@
+IP pública: 186.84.21.189
+Mascara subred: 255.255.0.0
+
+IP privada: 192.168.0.18
+Mascara subred: 255.255.255.0
+
+MAC: 20:16:D8:0C:45:35
+
+¿La IP pública y privada de qué clase son?
+Pública:Clase B
+Privada:Clase C
+
+¿Qué información puedo obtener de la Máscara de red?
+Indica a los dispositivos qué parte de la dirección IP es el número de la red
+y qué parte es la correspondiente al host.
+
