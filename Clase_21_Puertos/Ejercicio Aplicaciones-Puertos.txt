@@ -1,0 +1,61 @@
+Aplicaciones y puertos
+----------------------
+
+-Zoom:
+TCP: 80, 443; UDP: 3478, 3479, 8801 - 8810
+
+-Discord:
+TCP: 443
+
+-Google Meet:
+UDP: 19302-19309. TCP: 443
+
+-WhatsApp Web:
+TCP: 5222, 5223, 5228 y 524. UDP: 3478.
+
+-MySQL:
+TCP 3306
+
+-Git:
+9418 TCP/UDP
+
+-Secure Sockets Layer (SSL):
+TCP 443
+
+-HTTP:
+80
+
+-VirtualBox:
+Puerto 22
+
+
+-VPN:
+El puerto por defecto es el 1194 UDP, aunque podemos configurarlo y cambiarlo en el servidor.Microsoft Outllok:Tipo de Conexión	Protocolo	PuertosEntrante*	IMAP	993Entrante*	POP	995Saliente*	SMTP	465
+
+
+-Microsoft Outlook:
+File Transfer Protocol (FTP)
+
+-Microsoft Word:
+puertos TCP 80 y 443 y a los puertos UDP 3478 a 3481
+Intervalo de puertos alto de 49152 a 65535Intervalo de puertos bajo de 1025 a 5000
+
+
+-Skype:
+443/TCP
+3478-3481/UDP
+50000-60000/UDP
+
+-Epic Games:
+puertos: 80, 433, 443, 3478, 3479, 5060, 5062, 5222, 6250, y 12000-65000.
+
+-FIFA 21:
+TCP: 1935, 3478-3480, 3659, 10000-10099, 42127. UDP: 3074, 3478-3479, 3659, 6000.
+
+-TeamViewer: TCP/UDP: 5938
+
+-Spotify:
+Puerto (TCP)	Uso80 y 443	Servicios de música, radio y cuenta Sonos445 y 3445	Biblioteca de música3400, 3401 y 3500	Control de la app Sonos4070	Conexión a Spotify
+
+-Netflix:
+TCP 8080
