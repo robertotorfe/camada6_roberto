@@ -1,0 +1,78 @@
+Zoom
+Puertos:
+TCP 80, 443
+TCP 443, 8801, 8802
+UDP 3478, 3479, 8801 - 8810
+
+Discord
+Puerto: TCP 443
+
+Google meet
+Puerto:
+UDP de salida 19302-19309.
+
+Whatsapp web
+Puerto:
+TCP: 5222, 5223, 5228 y 524.
+UDP: 3478.
+
+MySQL: 3306
+Git: 9418
+SSL: Es un certificado que brinda mayor seguridad en la comunicacion con internet,
+por lo tanto dependiendo del protocolo que utilicemos el puerto puede ser diferente,
+por ejemplo IMAP: 993, POP3: 995, SMTP: 465
+HTTP: 80
+
+Spotify: 80, 443, 4070 
+Team Viewer:5938, 448 80
+Netflix: HTTPS HTTP 8080 80 SSL443
+
+virtual box 
+TCP:7777
+
+VPN protocolos comunes 
+PPTP (Point-to-Point Tunneling Protocol) – This protocol uses port 1723 TCP.
+L2TP (Layer Two Tunneling Protocol) – This protocol uses port 1701 TCP, Port 500 UDP, and port 4500 UDP.
+IPSec (Internet Protocol Security) – This protocol uses port 500 UDP and ports 4500 UDP.
+STP (Secure Socket Tunneling Protocol) – This protocol uses port 443 TCP.
+OpenVPN – This protocol uses port 1194 TCP/UDP and port 443 TCP.
+
+Microsoft 365 Outlook 
+SSL/TLS 993
+
+Protocolo FTP 
+TCP 20
+TCP 21
+
+Skype:
+
+443/TPC
+3478-3481/UDP
+50000-60000/UDP
+1000-10000/TPC
+50000-65000/TCP
+16000-26000/TCP
+
+Epic Games:
+
+80, 433, 443, 3478, 3479, 5060, 5062, 5222, 6250, y 12000-65000
+
+
+FIFA 21:
+
+PC
+3659, 9565, 9570, 9000 - 9999 /UDP
+3569, 9946, 9988, 10000 - 20000, 42124 /TCP
+
+La configuración de Escritorio Remoto de World Office TCP:23419
+Microsoft 365 y office online
+TCP: 443, 80, 587, 143, 993, 995, 25, 80, 3478, 3479, 3480, 3481.
+
+Instagram
+Puerto: 70, 79, 80, 110
+
+Ares: 6881-6889
+
+Microsoft Remote Desktop:3388-3390
+
+

@@ -3,7 +3,7 @@ Máscara de subred: 255.255.255.0
 Dirección IPv4: 192.168.1.120
 
 La IP pública es clase: B
-La IP privada es clas: C 
+La IP privada es clase: C 
 
 MAC: 9C-B7-0D-8A-7E-96
 Liteon Technology Corporation
