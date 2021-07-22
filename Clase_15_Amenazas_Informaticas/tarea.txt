@@ -1,0 +1,4 @@
+-Clonamos el repositorio de la camada en la virtual box.
+-apt-get es el comando den sistemas derivado de debian para instalar programas de linux, borrarlos actualizar repositorios y actualizar el sistema desde la linea de comandos.
+-Comunmente sirve para obtener permisos de root para operaciones administrativas, sin tener que salir y reentrar en el sistema.
+-Me resulto familiar la forma de clonar ya que es el mismo que en la bash de windows, el comando git clone + el link de la repo de la camada, simplemente que es en ña terminal de debian.
