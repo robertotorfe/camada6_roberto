@@ -1,0 +1,8 @@
+Git bash es un procesador de comandos.
+Vs code es un editor de codigo fuente, es compatible con varios lenguajes de programación.
+Ana Lovelacese invento la Maquina Analitica, fue la primera mujer programadora.
+La interfaz de usuario es el medio por el cual el cliente puede entablar comunicacion con un dispositivo o equipo.
+Los servidores atienden las peticiones del cliente y le proporconan una respuesta, se pueden ejecutar en cualquier 
+computadora o diispositivo.
+El hardware es todo lo fisico como el pc, el teclado y el software es el conjunto de programas o aplicaciones
+que por medio de instrucciones hacen funcionar al equipo.
