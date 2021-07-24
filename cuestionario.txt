@@ -1,4 +1,0 @@
-1) Se comprobó que la conexión a internet es correcta, con el ping -c 2 www.dihitalhouse.com
-2)el "Apt get sirve para manejar paquetes: instalarlos, manjarlos y borrarlos
-3) el comando SU se usa para poder navegar entre usuarios
-4) Sip, pero todavía me da lío el manejo de linux
