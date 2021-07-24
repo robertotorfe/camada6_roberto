@@ -1,0 +1,19 @@
+Link:
+https://www.welivesecurity.com/la-es/2019/10/22/navegador-tor-troyanizado-robar-bitcoins-darknet/
+
+¿Qué tipo de amenaza es?
+Es un troyano.
+
+¿Cómo comienza y cómo se propaga esta amenaza?
+Se creó una versión de Tor troyanizado y se abrieron sitios web con dominio casi idéntico al oficial ofreciendo la descarga haciendole creer al usuario que estaba descargandolo desde la página de TOR. 
+Para distribuirlo, se promocionaron esos sitios falsos haciendo spam en diferentes foros buscando posicionarlo en las busquedas de google y lograr así que los usuarios entren. 
+
+¿Hay más de una amenaza aplicada ? 
+El troyano fue diseñado para robar monedas digitales de aquellos que visitan mercados de la darknet. 
+
+¿Qué solución o medida recomendarían ? 
+Instalar un antivirus y realizar análisis periódicos del sistema.
+Contar con un antivirus actualizado y un firewall:
+• El antivirus avisará si se ha descargado un archivo que incluye un virus troyano y los eliminará en caso de que el dispositivo esté infectado.
+• El firewall evitará que los troyanos puedan transmitir información desde el ordenador o recibir ordenes, si se llega a infectar. 
+
