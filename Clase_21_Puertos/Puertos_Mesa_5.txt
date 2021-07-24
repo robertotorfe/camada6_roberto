@@ -1,0 +1,94 @@
+Zoom:
+TCP	80, 443, 8801, 8802
+UDP	3478, 3479, 8801 - 8810
+
+
+Discord
+TCP 443
+UDP 50000-65535
+
+Google Meet:
+UDP 19302-19309
+TCP 443
+
+
+WhatsApp Web:
+TCP: 5222, 5223, 5228 y 524. 
+UDP: 3478
+
+
+MySql:
+3306
+
+
+Git:
+TCP 9418
+
+Secure Sockets Layer (SSL)
+443
+
+
+HTTP:
+80
+
+
+VirtualBox:
+
+
+
+VPN:existen diferentes tipos de protocolos según la VPN que estemos utilizando, y además cada uno de estos protocolos usa un puerto diferente
+UDP 1194, 51820, 500, 1500
+TCP 1701, 1723
+
+Microsoft Outlook
+993, 995, 465, 587, 110, 25
+
+
+FTP:
+20, 21
+
+
+
+Microsfot Word:
+443-80-587
+
+
+
+Skype:
+443/TPC
+3478-3481/UDP
+50000-60000/UDP
+1000-10000/TPC
+50000-65000/TCP
+16000-26000/TCP
+
+
+
+Epic Games:
+80, 433, 443, 3478, 3479, 5060, 5062, 5222, 6250, y 12000-65000
+
+
+
+FIFA 21:
+PC
+3659, 9565, 9570, 9000 - 9999 /UDP
+3569, 9946, 9988, 10000 - 20000, 42124 /TCP
+
+
+Spotify 
+4070, 57621 
+
+
+Teamviewer:
+5938
+
+
+Netflix:
+443
+
+
+Ares: 6881-6889
+Microsoft Remote Desktop:3388-3390
+
+ 
+Instagram : 70, 79, 80, 110
