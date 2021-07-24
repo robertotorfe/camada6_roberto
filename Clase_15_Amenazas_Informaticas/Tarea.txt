@@ -1,0 +1,12 @@
+1)Describan con sus palabras lo que acaban de hacer.
+-Instalamos git, clonamos un repositorio y creamos un arcivo dentro de la carpeta clase 15
+
+2)Describir para que sirve "apt-get"
+-Sirve para gestionar paquetes
+
+3)Describir para que sirve "SU"
+-Sirve para acceder al Super Usuario.
+
+4)Les resulto familiar esta forma de conectarse a un equipo?
+Si, ya que en windows con la terminal de git bash, clonamos un repositorio y trabajamos con el.
+
