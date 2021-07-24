@@ -1,0 +1,17 @@
+Privada:CLASE C
+
+IPv6 Address. . . . . . . . . . . : 2800:40:15:489:dd2b:2bf:9c0:9d53
+IPv4 Address. . . . . . . . . . . : 192.168.1.25
+Subnet Mask . . . . . . . . . . . : 255.255.255.0
+
+Pública: CLASE C
+
+IPv6 Address. . . . . . . . . . . : 2800:40:15:489:dd2b:2bf:9c0:9d53
+Pv4 Address. . . . . . . . . . . :200.123.141.57
+
+MAC Address:
+
+Intel Corporation
+D0-37-45-77-4F-5B
+
+
