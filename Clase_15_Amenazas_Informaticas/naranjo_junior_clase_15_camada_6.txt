@@ -1,0 +1,4 @@
+1. Primero se comporobo que la conexion a internet sea correcta, luego se instalo git para luego poder clonar el repositorio
+2. El comando "apt-get" sirve para manejar los paquetes, instalarlos, actualizarlos, borrarlos, etc.
+3. El comando "su" se usa para poder navegar entre usuarios, en este caso nos cambiambos al usuario raiz para poder tener permisos de administrador
+4. Si, es bastante intuitivo, una vez que le agarras la mano se entiende bien
