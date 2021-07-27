@@ -1,0 +1,12 @@
+1.
+Verificamos la conexión de la maquina por medio del comando PING hacia la pagina de DH, en base a la url que nos$
+Instalamos el software GIT desde la consola en nuestra maquina virtual por medio del comando apt-get install git
+Chequeamos que la version instalada de git sea la que figura en el enunciado
+Clonamos el repositorio de las clases y nos cambiamos a nuestras ramas y a la carpeta de la actividad actual.
+Creamos el archivo en el cual estamos respondiendo estas preguntas.
+
+2.Es el comando que permite realizar operaciones sobre los programas/paquetes que necesitemos, y se debe combina$
+
+3. Es el comando que permite cambiar de usuarios en algunas distribuciones de Linux, significa switch user, cambiar.
+
+4. No, nunca lo había hecho antes
