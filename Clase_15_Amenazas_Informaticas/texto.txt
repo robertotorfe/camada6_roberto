@@ -1,0 +1,4 @@
+1.	Debemos tener git desde la maquina virtual y luego cusamos git clone con el url de la camada.
+2.	el comando apt-get se usa para el manejo de paquetes en linux, para borrarlos, actualizar los repositorios y actualizar el sistema desde la linea de comandos.
+3.	Se usa para ingresar al usuario root o super usuario y cambiar de un usuario a otro
+4.	Si, bue similar ya que se ejecutaron los mismos comandos en GitBash para windows.
